@@ -17,15 +17,15 @@ I am interested in the phenomenology of visual perception, empirical aesthetics 
 
 Current activities
 ------
-I am currently visiting the [Center for Cultures and Technologies of Collecting](https://www.donau-uni.ac.at/de/universitaet/fakultaeten/bildung-kunst-architektur/departments/kunst-kulturwissenschaften/zentren/kulturen-und-technologien-des-sammelns.html) at [Universität für Weiterbildung Krems](https://www.donau-uni.ac.at/de.html).
+I am currently visiting the [Center for Cultures and Technologies of Collecting](https://www.donau-uni.ac.at/de/universitaet/fakultaeten/bildung-kunst-architektur/departments/kunst-kulturwissenschaften/zentren/kulturen-und-technologien-des-sammelns.html) at [UWK](https://www.donau-uni.ac.at/de.html).
 
 
 Selected Research Projects
 ------
 
-2025 - Doctoral thesis, "Modes of Vision between Subject and Form: Investigating Twofoldness in Painting Perception" superivised by [Prof. Raphael Rosenberg](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/) and reviewed by [Prof. Johan Wagemans](https://ai.kuleuven.be/members/00007347) and [Prof. Christoph Wagner](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/institut-fuer-kunstgeschichte/institut/christoph-wagner).
-
 ![image](/images/twofold_6.png)
+
+2025 - "Modes of Vision between Subject and Form: Investigating Twofoldness in Painting Perception" -  Doctoral thesis, superivised by [Prof. Raphael Rosenberg](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/) and reviewed by [Prof. Johan Wagemans](https://ai.kuleuven.be/members/00007347) and [Prof. Christoph Wagner](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/institut-fuer-kunstgeschichte/institut/christoph-wagner).
 
 
 This project provides a review of historical writings on painting perception. The main aim is that of identifying the recurring conceptualization of "twofoldness", or two distinct perceptual abilities - one, formalist, the other, interpretative. 
@@ -33,9 +33,9 @@ The historical dicourse is brought into dialogue with current research on percep
 
 -
 
-2022-2025 “[MuVE](https://crea.univie.ac.at/projects/museum-visitor-experience-muve): what moves the eye, what moves us and how to we move in the museum space?” in collaboration with the [Leopold Museum](https://www.leopoldmuseum.org/en), Vienna. 
-
 ![image](/images/leopold_2.png)
+
+2022-2025 “[MuVE](https://crea.univie.ac.at/projects/museum-visitor-experience-muve): what moves the eye, what moves us and how to we move in the museum space?” in collaboration with the [Leopold Museum](https://www.leopoldmuseum.org/en), Vienna. 
 
 
 The MuVE research project investigates how visitors engage with art in the Leopold museum. By combining mobile eye-tracking technology with targeted questionnaires, it examines three interconnected dimensions of the museum experience: 1. what moves the eye, exploring how visitors visually engage with artworks; 2. what moves us, focusing on interest, emotional engagement, value, memory, and individual differences in art appreciation; and 3. how we move, considering how visitors physically and spatially interact with the exhibition gallery. 
@@ -44,14 +44,16 @@ Together, these perspectives provide a multifaceted understanding of how visual,
 
 -
 
+![image](/images/sidelong_2.png)
+
 2020-2021 “The Gendered Eye” (under the FWF Project ["The Cultural Eye"](https://www.fwf.ac.at/forschungsradar/10.55776/P25821))
 
 
-![image](/images/sidelong_2.png)
+The research project addresses a longstanding question in feminist aesthetics: how does gender shape the perception and aesthetic experience of art?
 
 
-The research project addresses a longstanding question in feminist aesthetics: how does gender shape the perception and aesthetic experience of art
-While studies in psychology and cognitive science have quantified differences in art perception across groups, they have often relied on an oversimplified understanding of gender. The project therefore examines how art perception has historically been framed through multiple "gendered binaries", distinguishing between three dimensions of gender: sex, gender identity, and sexual orientation. It then investigates, through two eye-tracking experiments, whether these dimensions correspond to statistically significant differences in visual behaviour. 
+While studies in psychology and cognitive science have quantified differences in art perception across groups, they have often relied on an oversimplified understanding of gender. The project therefore examines how art perception has historically been framed through multiple "gendered binaries", distinguishing between three dimensions of gender: sex, gender identity, and sexual orientation. It then investigates, through two eye-tracking experiments, whether these dimensions correspond to statistically significant differences in visual behaviour.
+
 The results reveal no such binary differences, highlighting the need for a more nuanced, transdisciplinary approach to understanding gender as a variable.
 
 
