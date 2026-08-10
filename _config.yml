@@ -23,10 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-am.png"
-  name             : "Anna Miscenà, PhD"
+  avatar           : "(/images/profile-am.png)"
+  name             : "Researcher and Lecturer"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher and Lecturer"
+  bio              : "Currently visiting the Center for Cultures and Technologies of Collecting @UWK"
+
+Selected ResearchUWK"
   location         : "Vienna"
   employer         : "University of Vienna"
   uri              : # URL
