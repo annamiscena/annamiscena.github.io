@@ -23,9 +23,11 @@ I am currently visiting the [Center for Cultures and Technologies of Collecting]
 Selected Research Projects
 ------
 
-![image](/images/twofold_6.png)
+### 2025 - "Modes of Vision between Subject and Form: Investigating Twofoldness in Painting Perception"
+ Doctoral thesis, superivised by [Prof. Raphael Rosenberg](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/) and reviewed by [Prof. Johan Wagemans](https://ai.kuleuven.be/members/00007347) and [Prof. Christoph Wagner](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/institut-fuer-kunstgeschichte/institut/christoph-wagner).
 
-2025 - "Modes of Vision between Subject and Form: Investigating Twofoldness in Painting Perception"  Doctoral thesis, superivised by [Prof. Raphael Rosenberg](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/) and reviewed by [Prof. Johan Wagemans](https://ai.kuleuven.be/members/00007347) and [Prof. Christoph Wagner](https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/institut-fuer-kunstgeschichte/institut/christoph-wagner).
+
+![image](/images/twofold_6.png)
 
 
 This project delineates a historical discourse of "twofoldness"; or the conceptualization of two distinct abilities involved in the perception of painting: one, formalist, the other, interpretative. 
@@ -34,22 +36,24 @@ The reviewed historical literature is compared with current research on percepti
 
 The thesis argues for an understanding twofoldness as a historically and culturally developed model, which can be employed to successfully describe different experienced dimensions of painting perception.
 
--
+
+### 2022-2025 “[MuVE](https://crea.univie.ac.at/projects/museum-visitor-experience-muve): what moves the eye, what moves us and how to we move in the museum space?” 
+in collaboration with the [Leopold Museum](https://www.leopoldmuseum.org/en), Vienna. 
+
 
 ![image](/images/leopold_2.png)
-
-2022-2025 “[MuVE](https://crea.univie.ac.at/projects/museum-visitor-experience-muve): what moves the eye, what moves us and how to we move in the museum space?” in collaboration with the [Leopold Museum](https://www.leopoldmuseum.org/en), Vienna. 
 
 
 The MuVE research project investigates how visitors engage with art in the museum context. Combining mobile eye-tracking with targeted questionnaires, it examines three interconnected dimensions of the visitor's experience: 1. what moves the eye, exploring how visitors visually engage with artworks; 2. what moves us, focusing on interest, emotional engagement, value, memory, and individual differences in art appreciation; and 3. how we move, considering how visitors physically and spatially interact with the exhibition. 
 
 Together, these perspectives provide a multifaceted understanding of how visual, emotional, and embodied processes shape our experience of art and of its spaces. 
 
--
+
+### 2020-2021 “The Gendered Eye” 
+(under the FWF Project ["The Cultural Eye"](https://www.fwf.ac.at/forschungsradar/10.55776/P25821))
+
 
 ![image](/images/sidelong_2.png)
-
-2020-2021 “The Gendered Eye” (under the FWF Project ["The Cultural Eye"](https://www.fwf.ac.at/forschungsradar/10.55776/P25821))
 
 
 The research project addresses a longstanding question in feminist aesthetics: how does gender shape the perception and aesthetic experience of art?
