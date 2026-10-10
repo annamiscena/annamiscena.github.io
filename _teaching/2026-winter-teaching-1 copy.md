@@ -1,7 +1,7 @@
 ---
 title: "Where to look: attention ecologies in artistic practice, from modernism to the present"
 collection: teaching
-type: "Master Course (eng)"
+type: "Postgraduate Semester Course (eng)"
 permalink: /teaching/2026-winter-teaching-1
 venue: "Kunstuniversität Linz"
 date: 2026-01-01

@@ -1,7 +1,7 @@
 ---
-title: "On the Art of Perspective - The Transformation of Vision in the Quattrocento"
+title: "On the Art of Perspective - The Transformation of Vision in the Italian Quattrocento"
 collection: teaching
-type: "Master Course (deu)"
+type: "Postgraduate Semester Course (deu)"
 permalink: /teaching/2026-winter-teaching-2
 venue: "Kunstuniversität Linz"
 date: 2026-01-01
