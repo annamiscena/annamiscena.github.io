@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile-am.JPG"
-  name             : "Anna Miscenà, PhD"
+  name             : "Dr.phil Anna Miscenà"
   pronouns         : # example: "she/her"  
-  bio              : "Currently visiting the Centre for Cultures and Technologies of Collecting @UWK"
+  bio              : "Currently Post-doc researcher @Kunstuni Linz"
   location         : "Vienna"
-  employer         : "University of Vienna"
+  employer         : "Kunstuniversität Linz"
   uri              : # URL
-  email            : "anna.miscena@univie.ac.at" 
+  email            : "anna.miscena@kunstuni-linz.at" 
 
   # Academic websites
   academia         : # URL
